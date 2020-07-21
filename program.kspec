@@ -1,0 +1,6 @@
+I: x
+I: y
+I: z
+C: sum(a,b) => a + b
+C: mul(a, b) => a * b 
+P: prog

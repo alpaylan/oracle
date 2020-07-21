@@ -1,0 +1,7 @@
+P: x
+P: y
+P: z
+O: t1 = mul(x, z)
+O: t2 = sum(t1, y)
+O: o = assign(t2)
+R: o
